@@ -1,64 +1,65 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:3:11-60
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:3:11-60
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:5:5-19:19
 	android:label
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:8:13-45
 	android:supportsRtl
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:10:13-39
 	android:roundIcon
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:9:13-58
 	android:allowBackup
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:6:13-39
 	android:icon
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:7:13-47
 	android:theme
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:11:13-44
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:11:13-44
 activity#com.ribeiro.gabriel.fragmentmanagerplus.MainActivity
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:12:19-86
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:12:19-86
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [EasyFragmentManager:easyfragmentmanager:unspecified] /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/easyfragmentmanager/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:27.0.2] /home/gabriel/.android/build-cache/04f1e2321e63cc1696e4e7d9341a0e11ffdfefc3/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.0.2] /home/gabriel/.android/build-cache/f8d2b547fcda96627874a60cba20925ffa85e870/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.0.2] /home/gabriel/.android/build-cache/c88116fb5ad7af919c89eb76f896896d9843a987/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/gabriel/.android/build-cache/9ee8e247899871e2d2241955ea279c9a702661a2/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] /home/gabriel/.android/build-cache/d88cf5118f1327603cfc51e84116bcf9c1f3dca6/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.0.2] /home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.0.2] /home/gabriel/.android/build-cache/fe1216fe109887d69163666a3519c29cbfa76a11/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.0.2] /home/gabriel/.android/build-cache/c4dabcf9932d473ac1649d62f59dc523bbdf102b/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/gabriel/.android/build-cache/f2af361ffe3e45c11f661198c25a23d739437f08/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/gabriel/.android/build-cache/256c51fa25b83c9b0f33a8a4e868a8705b10bd5b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/gabriel/.android/build-cache/9ee8e247899871e2d2241955ea279c9a702661a2/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.0.2] /home/gabriel/.android/build-cache/479e6db5ad5400826d62ee1d3562df5037290e35/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/gabriel/.android/build-cache/d88cf5118f1327603cfc51e84116bcf9c1f3dca6/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.0.2] /home/gabriel/.android/build-cache/0ddfadbac9eed43b274fdbdc688660a7eec3a6e2/output/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/gabriel/.android/build-cache/7268514c43ccf80987161cddb59867692d99844d/output/AndroidManifest.xml:20:5-22:41
 	android:targetSdkVersion
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
-		INJECTED from /home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/AndroidManifest.xml

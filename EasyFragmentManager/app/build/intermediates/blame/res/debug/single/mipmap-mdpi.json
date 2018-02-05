@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

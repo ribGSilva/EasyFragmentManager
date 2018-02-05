@@ -2,5 +2,9 @@
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v21/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v21/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v21/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v21/abc_btn_colored_borderless_text_material.xml"
     }
 ]

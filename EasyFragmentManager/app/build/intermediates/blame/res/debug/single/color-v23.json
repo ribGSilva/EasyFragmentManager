@@ -4,6 +4,10 @@
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
@@ -16,8 +20,32 @@
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/gabriel/.android/build-cache/04f1e2321e63cc1696e4e7d9341a0e11ffdfefc3/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
@@ -26,6 +54,14 @@
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
@@ -38,6 +74,10 @@
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/gabriel/.android/build-cache/8fedac6f31ccaa486f38720303ca44dd776e7200/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",

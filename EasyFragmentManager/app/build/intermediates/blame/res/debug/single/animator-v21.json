@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/gabriel/Git/EasyFragmentManager/EasyFragmentManager/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/gabriel/.android/build-cache/04f1e2321e63cc1696e4e7d9341a0e11ffdfefc3/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "/home/gabriel/Projects/AndroidStudioProjects/FragmentManagerPlus/FragmentManagerPluss/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/home/gabriel/.android/build-cache/04f1e2321e63cc1696e4e7d9341a0e11ffdfefc3/output/res/animator-v21/design_appbar_state_list_animator.xml"
     }
